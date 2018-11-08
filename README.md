@@ -1,7 +1,7 @@
 # Good Samaritan
 ![Sketch Version 52.3](http://designly.link/2DrNtlk)
 
-This is a concept based on the ACLU Mobile Jusitce application, to help hold poice accountable and to quickly access and learn your rights when encountering or witnessing an incident with law enforcement. You can view the [InVision project](https://invis.io/UAOXHTENCQS) to use the in-progress prototype or view the screens on [Presentator.io](https://app.presentator.io/en/PANfud7c), where you can leave comments.
+This is a concept based on the ACLU Mobile Jusitce application, to help hold police accountable and to quickly access and learn your rights when encountering or witnessing an incident with law enforcement. You can view the [InVision project](https://invis.io/UAOXHTENCQS) to use the in-progress prototype or view the screens on [Presentator.io](https://app.presentator.io/en/PANfud7c), where you can leave comments.
 
 | To Do               | Status      |
 | ------------------- | ------------|
